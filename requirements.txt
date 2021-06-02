@@ -55,7 +55,7 @@ statsmodels==0.10.1
 structlog==19.2.0
 tornado==6.0.3
 tqdm==4.37.0
-urllib3==1.25.7
+urllib3==1.26.5
 vaderSentiment==3.2.1
 wasabi==0.4.0
 xid==1.0.4
